@@ -58,8 +58,16 @@
 **Anotações:**
 
 - Vídeo de instalação do **JDK** para **linux**, que não fora disponibilizado diretamente na playlist do canal curso em vídeo, que visa uma instalação voltada para **Windows**.
+     * **link:** https://www.youtube.com/watch?v=mogEtgyqwAM&pp=ygUYaW5zdGFsYW5kbyBqYXZhIG5vIGxpbnV4*
 - Estou tendo alguns problemas na hora de intalar o **JDK** irei reportar ao orientador e continuarei estudando a sintaxe do **Java**
 
 - consegui instalar o java na versão 11.0.16
+
+- instalado netBins;
+- 
+#### PlayList Curso Java - Vídeo 4 - Curso em vídeo: Primeiros comandos
+
+**Link:** [[https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/java-curso-completo/)](https://www.youtube.com/watch?v=ijXXaIYsVx4&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=7&pp=iAQB)
+
 
 
