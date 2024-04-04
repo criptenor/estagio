@@ -55,4 +55,11 @@
   - ME -> Micro Edition
     * **Aplicações com menor complexidade, para uma edição portátil**
 
+**Anotações:**
+
+- Vídeo de instalação do **JDK** para **linux**, que não fora disponibilizado diretamente na playlist do canal curso em vídeo, que visa uma instalação voltada para **Windows**.
+- Estou tendo alguns problemas na hora de intalar o **JDK** irei reportar ao orientador e continuarei estudando a sintaxe do **Java**
+
+- consegui instalar o java na versão 11.0.16
+
 
