@@ -6,7 +6,7 @@
 
 #### PlayList Curso Java - Vídeo 1 - Curso em vídeo: História do Java
 
-**Link:** [https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/java-curso-completo/)
+**Link:** https://www.youtube.com/watch?v=sTX0UEplF54&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=1&pp=iAQB
 
 #### PlayList Curso Java - Vídeo 2 - Como Java funciona
 
