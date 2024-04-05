@@ -67,7 +67,7 @@
 - 
 #### PlayList Curso Java - Vídeo 4 - Curso em vídeo: Primeiros comandos
 
-**Link:** [[https://www.udemy.com/course/java-curso-completo/](https://www.udemy.com/course/java-curso-completo/)](https://www.youtube.com/watch?v=ijXXaIYsVx4&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=7&pp=iAQB)
+**Link:** [(https://www.udemy.com/course/java-curso-completo/)](https://www.youtube.com/watch?v=ijXXaIYsVx4&list=PLHz_AreHm4dkI2ZdjTwZA4mPMxWTfNSpR&index=7&pp=iAQB)
 - Segunindo orientações da coordenadoria começarei nesse momemento a instalação do **java8** e com outro **IDE**
 - Desintalar **Java 11** instalado anteriormente no início  do projeto;
 
